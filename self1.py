@@ -39,3 +39,8 @@ while count3!=finish:
  		break 			
 print "\n\nCONGRATULAATIONS!!"
 
+
+'''
+1. Mention controls for the game.
+2. Mention which key to press when.
+'''
